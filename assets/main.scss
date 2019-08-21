@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "css/style.min.css";
+@import "css/style.css";
+@import "css/superfish.css";
+@import "css/component.css";
+@import "css/elegant-font-style.css";
+@import "css/jquery.fancybox.css";
+@import "css/flexslider.css";
+@import "css/style-responsive.css";
+@import "css/style-custom.css";
+@import "css/masterslider.main.css";
+@import "css/custom.css";
+
+body {
+    font-size:  1.5em;
+}

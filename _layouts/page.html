@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="page">
+
+  <div class="greennature-page-title-wrapper header-style-5-title-wrapper">
+    <div class="greennature-page-title-overlay"></div>
+    <div class="greennature-page-title-container container">
+      <h1 class="greennature-page-title">{{ page.title | escape }}</h1>
+      <span class="greennature-page-caption">{{ page.description | escape }}</span>
+    </div>
+  </div>
+
+  <div class="content-wrapper">
+    <div class="greennature-content">
+      <div class="main-content-container container greennature-item-start-content">
+        <div class="greennature-item greennature-main-content">
+          {{content}}
+          <span class="clear"></span>
+          <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+      </div>
+
+    </div><!-- greennature-content -->
+    <div class="clear"></div>
+  </div>
+
+</article>

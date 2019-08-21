@@ -1,0 +1,47 @@
+{% assign current = page.url | downcase | split: '/' %}
+{% assign slug = current[1] %}
+
+<header class="greennature-header-wrapper header-style-5-wrapper greennature-header-with-top-bar">
+  <!-- top navigation -->
+  <div id="greennature-header-substitute"></div>
+  <div class="greennature-header-inner header-inner-header-style-5">
+    <div class="greennature-header-container container">
+      <div class="greennature-header-inner-overlay"></div>
+      <!-- logo -->
+      <div class="greennature-logo">
+        <div class="greennature-logo-inner">
+          <a href="/">
+            <img src="/assets/images/logo.png" alt="" /> </a>
+        </div>
+        <div class="greennature-responsive-navigation dl-menuwrapper" id="greennature-responsive-navigation"><button
+            class="dl-trigger">Open Menu</button>
+          <ul id="menu-main-menu" class="dl-menu greennature-main-mobile-menu">
+            {% for page in site.data.pages %}
+              <li
+                class="{% if slug == page.slug %} current-menu-item current_page_item {% endif %} menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item">
+                <a href="/{{page.slug}}"><i class="fa fa-{{page.icon}}"></i>{{page.name}}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <!-- navigation -->
+      <div class="greennature-navigation-wrapper">
+        <nav class="greennature-navigation" id="greennature-main-navigation">
+          <ul id="menu-main-menu-1" class="sf-menu greennature-main-menu">
+            {% for page in site.data.pages %}
+              <li
+                class="{% if slug == page.slug %} current-menu-item current_page_item {% endif %} menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item greennature-normal-menu">
+                <a href="/{{page.slug}}"><i class="fa fa-{{page.icon}}"></i>{{page.name}}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+        <div class="greennature-navigation-gimmick" id="greennature-navigation-gimmick"></div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</header>

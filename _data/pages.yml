@@ -1,0 +1,22 @@
+- name: Home
+  icon: home
+
+- name: About
+  slug: about
+  icon: question
+
+- name: Badges
+  slug: badges
+  icon: plus-circle
+
+- name: Projects
+  slug: projects
+  icon: tree
+
+# - name: Getting Started
+#   slug: getting-started
+#   icon: rocket
+
+- name: Shop
+  slug: shop
+  icon: shopping-cart

@@ -1,0 +1,98 @@
+- name: Cooperation
+  slug: cooperation
+  icon: coop.jpeg
+  background-color: white
+  height: 100%
+  margin: 0
+
+- name: Greenhouses
+  slug: greenhouses
+  icon: greenhouse-png-19.png
+  background-color: red
+  height: 80%
+  margin: 2px 0 0 5px
+
+- name: Gardening
+  slug: gardening
+  icon: fruit-icon-png-4.png
+  background-color: beige
+  height: 70%
+  margin: 8px 0 0 7px
+
+- name: Regenerative Agriculture
+  slug: regenerative-agriculture
+  icon: regen.png
+  background-color: '#6D9B2A'
+  height: 100%
+  margin: 0
+  
+- name: Archery
+  slug: archery
+  icon: bow-and-arrow.jpg
+  background-color: '#efeefe'
+  height: 75%
+  margin: 7px 0 0 1px
+
+- name: Animal Science
+  slug: animal-science
+  icon: chicken.png
+  background-color: green
+  height: 75%
+  margin: 8px 0 0 13px
+
+- name: Green Transportation
+  slug: green-transportation
+  icon: imgbin-yuba-bicycles-freight-bicycle-bicycle-frames-utility-bicycle-cargo-bike-0DEn8agp2CxA7MvB3Y6q3Vpek.jpg
+  background-color: '#ddd'
+  height: 94%
+  margin: 0 0 0 1px
+
+# - name: Recycling and Salvage
+#   slug: recycling-and-salvage
+#   icon: icon-1.png
+#   background-color: '#DDCE9F'
+#   height: 100%
+#   margin: 0
+
+- name: Renewable Energy
+  slug: renewable-energy
+  icon: icon-3.png
+  background-color: '#38ACAF'
+  height: 100%
+  margin: 0
+
+- name: Soil Conservation
+  slug: soil-conservation
+  icon: soil.png
+  background-color: '#C8822A'
+  height: 58%
+  margin: 10px 0 0 4px
+
+- name: Water Conservation
+  slug: water-conservation
+  icon: water_PNG50218.png
+  background-color: lightblue
+  height: 80%
+  margin: 8px 0 0 5px
+
+- name: Insect Science
+  slug: insect-science
+  icon: insect.png
+  background-color: yellow
+  height: 80%
+  margin: 6px 0 0 6px
+
+- name: Aquaculture
+  slug: aquaculture
+  icon: other-aquaculture-logo-engineering-design-png-download-2277-aquaculture-png-900_900.jpg
+  background-color: white
+  height: 100%
+  margin: 0
+
+# - name: Medicine
+#   slug: medicine
+#   icon: medicine.png
+#   background-color: '#77C5EC'
+#   height: 100%
+#   margin: 0 2px
+

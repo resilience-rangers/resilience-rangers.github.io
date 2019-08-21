@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body style="background-color: #191612;">
+
+    <div class="body-wrapper float-menu">
+
+      {%- include header.html -%}
+      
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            <div class="greennature-content">
+              {{ content }}
+            </div>
+          <div class="clear"></div>
+        </div>
+      </main>
+
+    </div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
