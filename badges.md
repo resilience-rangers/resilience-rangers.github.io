@@ -111,7 +111,7 @@ When obtaining Cooperation, you learn about the four core organizational groups:
 It's important to note that these are just guidelines, as there are no minimum or maximum number of badges to achieve. Ultimately, you should focus what you think is important as an individual or as a group.
 </p>
 
-Beta Notice: This is all in a rough draft stage as far as the badges and their requirements. The purpose of this page is to solicit discussion, so if you're not seeing something here or you have a good idea please let us know at <a href="mailto:info@resiliencerangers.org">info@resiliencerangers.org</a> or if you're technically inclined see <a href="https://github.com/resilience-rangers/resilience-rangers.github.io">our github project</a>.
+Beta Notice: Badges and their requirements are all in a rough draft stage. The purpose of this page is to solicit discussion, so if you're not seeing something here or you have a good idea please let us know at <a href="mailto:info@resiliencerangers.org">info@resiliencerangers.org</a> or if you're inclined check out our <a href="https://github.com/resilience-rangers/resilience-rangers.github.io">github project</a>.
 
 <br><br><br>
 
