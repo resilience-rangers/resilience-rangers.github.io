@@ -19,7 +19,7 @@ Do the following:
 
 Do the following:
 
-- a. Produce electricity using a solar panel that is at least 100 watts. Charge a 12 volt battery and use the energy in the battery to do something useful.
-- b. Produce electricity using a wind turbine that is at least 100 watts. Charge a 12 volt battery and use the energy in the battery to do something useful.
+- a. Produce electricity using a solar panel that is at least 100 watts. Charge a battery and use the energy in the battery to do something useful.
+- b. Produce electricity using a wind turbine that is at least 100 watts. Charge a battery and use the energy in the battery to do something useful.
 
 Alternatively, you can do one of the above using hyrdroelectic energy if a suitable source is available to you.

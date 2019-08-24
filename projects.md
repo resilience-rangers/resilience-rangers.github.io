@@ -5,7 +5,7 @@ description: Community Engineering vs Climate Challenges
 permalink: /projects/
 ---
 
-# Passive Solar Greenhouses
+### Passive Solar Greenhouses
 
 Greenhouse Engineering is a central pillar of the Resilience Rangers' philosophy. It's one of the most direct ways we achieve resilience by overcoming issues of food insecurity. Because of this, you'll notice that many of our badges are designed to support this style of intensive agriculture.
 
@@ -38,16 +38,14 @@ Using only geothermal heating, growers like [Greenhouse in the Snow](https://gre
 
 In addition to providing food security, a greenhouse is a perfect laboratory for science education, and a way to gain practical engineering experience.
 
-# Regenerative Agriculture Projects
+### Regenerative Agriculture Projects
 
 Building greenhouses isn't the only solution proposed by Resilience Rangers. In general, we stress the importance of regenerative agriculture and permaculture practices. There is much work to be done to make our food systems resilient, mostly through observing and mimicking the systems we see in nature. Where possible, we wish to move beyond organic or sustainable food production and into "carbon farming" a.k.a. regenerative practices in order to leave a better quality of life for our planet and our children.
 
 ![](/assets/images/IMG_6897-copy.jpg)
 
-# Purpose
+### Purpose
 
 Get together within our community to create resilient systems.
 
 We can cure our learned helplessness and truly thrive in an inhospitable world. Many opportunities organically emerge when we work together as a community. Check out our [badges](/badges) for more examples of resilient community infrastructure. 
-
-<br><br><br><br>

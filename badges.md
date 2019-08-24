@@ -110,8 +110,6 @@ It's important to note that these are just guidelines, as there are no minimum o
 
 Beta Notice: Badges and their requirements are all in a rough draft stage. The purpose of this page is to solicit discussion, so if you're not seeing something here or you have a good idea please let us know at <a href="mailto:info@resiliencerangers.org">info@resiliencerangers.org</a> or if you're inclined check out our <a href="https://github.com/resilience-rangers/resilience-rangers.github.io">github project</a>.
 
-<br><br><br>
-
 <!--
 - Athletics + Personal Fitness
 - Smelting and forging
