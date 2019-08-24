@@ -27,3 +27,7 @@ How your admissions process works.
 Devise a new meeting template and contribute it if possible (if it's general enough for anyone else to benefit from). It doesn't need to be used so much as it needs to demonstrate knowledge of the template system.
 
 Mediate or otherwise be an active participant in at least ten meetings run within this framework.
+
+##### Note:
+
+There is an accompanying guide to answer the questions posed above that is currently in the works, check this space at a later date or reach out to us at info@resiliencerangers.org with questions or comments.

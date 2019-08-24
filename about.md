@@ -26,12 +26,12 @@ Resilience Rangers offer an inclusive and _positive_ program for growth and skil
 
 ### We Encourage
 
-- Operating democratically as a cooperative
+- Operating democratically
 - Favoring scientific and evidence based conclusions
 - Improving and revitalizing the land around us
 - Learning to make things and embracing a DIY ethic
 - Favoring diversity over monoculture
-- [Building community infrastructure](/projects)
+- Building community infrastructure
 - Going zero or negative waste where possible
 - Embracing empathy and compassion towards others
 

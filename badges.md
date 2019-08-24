@@ -11,9 +11,8 @@ It's expected that everyone picks up Cooperation first. It's your guide for how 
 
 <style>
 .list-with-icon-caption { font-size: 0.8em; }
+.greennature-icon-with-list-item { margin:30px; margin-left: 0px}
 </style>
-
-<br>
 
 <div class="greennature-item greennature-icon-with-list-item">
   {% for badge in site.data.badges %}
@@ -38,8 +37,6 @@ It's expected that everyone picks up Cooperation first. It's your guide for how 
   {% endfor %}
   <div class="clear"></div>
 </div>
-
-<br>
 
 When obtaining Cooperation, you learn about the four core organizational groups: **Procurement**, **Production**, **Education**, and **Security**. One who considers themselves a Resilience Ranger (as opposed to in-training) should achieve badges that mirror each of those areas. For example a newbie Ranger might take:
 
@@ -107,7 +104,7 @@ When obtaining Cooperation, you learn about the four core organizational groups:
   <div class="clear"></div>
 </div>
 
-<p style="margin-top:30px"> 
+<p> 
 It's important to note that these are just guidelines, as there are no minimum or maximum number of badges to achieve. Ultimately, you should focus what you think is important as an individual or as a group.
 </p>
 
